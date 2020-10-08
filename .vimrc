@@ -15,7 +15,7 @@ highlight PreProc ctermfg=82
 
 set wildmenu
 set autoread
-set autoindent
+set autoindent        "自动缩进，需要粘贴代码时可临时关闭--> set noautoindent
 set showmatch
 set tabstop=4
 set mouse=a
