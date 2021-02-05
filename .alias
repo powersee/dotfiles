@@ -7,3 +7,4 @@ alias s="screen"
 alias ad="adb devices"
 alias acon="adb connect"
 alias ai='apt install'
+alias s-s='systemctl status'
